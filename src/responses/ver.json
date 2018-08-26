@@ -1,0 +1,2089 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "ver",
+      "language": "es",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Masculine",
+                  "type": "Gender"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "aún está de buen ver",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "he still looks good"
+                        },
+                        {
+                          "language": "en",
+                          "text": "he's still good-looking / attractive"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no es de mal ver",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "she's not bad-looking"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048185.002",
+                  "notes": [
+                    {
+                      "text": "aspecto",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a mi/su ver",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "as I see/he sees it"
+                        },
+                        {
+                          "language": "en",
+                          "text": "in my/his view"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048185.003",
+                  "notes": [
+                    {
+                      "text": "opinión",
+                      "type": "indicator"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Noun",
+          "text": "ver"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Transitive",
+                  "type": "Subcategorization"
+                }
+              ],
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "id": "b-es-en0048186.002",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "los vieron salir por la puerta trasera",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "they were seen leaving by the back door"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿ves el letrero allí enfrente?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "can / do you see that sign opposite?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "van a bajar los impuestos — ¡y tú que lo veas!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "registers": [
+                                "ironic"
+                              ],
+                              "text": "they're going to cut taxes — do you think you'll live long enough to see it?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "aquí donde me ves, tengo 90 años cumplidos",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "believe it or not, I'm ninety years old"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "me acuerdo perfectamente, es como si lo estuviera viendo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I remember it perfectly, as if I were seeing it now"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "el fracaso se veía venir",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it was obvious / you could see it was going to fail"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "en cuanto le pedí un favor, si te he visto no me acuerdo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "as soon as I asked a favor of him, he just didn't want to know"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ver venir algo/a algn"
+                        },
+                        {
+                          "text": "lo vi con mis propios ojos",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I saw it with my own two eyes / with my (very) own eyes"
+                            },
+                            {
+                              "language": "en",
+                              "text": "I saw it with my own eyes"
+                            },
+                            {
+                              "language": "en",
+                              "text": "I saw it myself / with my own two eyes"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ahí donde la ves tiene un genio …",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "incredible though it may seem, she has a real temper …"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ya lo veo venir, seguro que quiere una semana libre",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "I know what he's after, I bet he wants a week off"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "la vi bailar en Londres hace años",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I saw her dance in London years ago"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "lo vi hablando con ella",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I saw him talking to her"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿ves algo?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "can you see anything?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no ver ni tres en un burro / ni un burro a tres pasos / ni jota"
+                        },
+                        {
+                          "text": "te veía venir, ya sabía lo que me ibas a pedir",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I thought as much, I knew what you were going to ask me for"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "la vi metérselo en el bolsillo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I saw her put it into her pocket"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡que cumplas muchos más! — ¡y tú que lo veas!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "many happy returns! — thank you very much"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "enciende la luz que no se ve nada",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "switch on the light, I can't see a thing"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "si te he visto no me acuerdo"
+                        },
+                        {
+                          "text": "ver algo/a algn + inf/ger"
+                        },
+                        {
+                          "text": "¡y tú que lo veas!"
+                        },
+                        {
+                          "text": "se te ve la combinación",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "your slip is showing"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "sin gafas no veo ni jota",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I can't see a thing without my glasses"
+                            },
+                            {
+                              "language": "en",
+                              "text": "without my glasses I'm as blind as a bat"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tú ves visiones, allí no hay nada",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you're seeing things, there's nothing there"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ahí donde lo/la ves"
+                        }
+                      ],
+                      "id": "b-es-en0048186.003",
+                      "notes": [
+                        {
+                          "text": "percibir con la vista",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "no poder (ni) ver a algn"
+                        },
+                        {
+                          "text": "un espectáculo que hay que ver",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "a show which you must see / which is not to be missed"
+                            },
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "a show which is a must"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "esa película ya la he visto",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I've seen that movie before"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no lo puedo ver ni pintado / ni en pintura",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "I can't stand the sight of him"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿te has hecho daño?, déjame ver",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "have you hurt yourself? let me see"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no puede ni verla / no la puede ver",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he can't stand her"
+                            },
+                            {
+                              "language": "en",
+                              "text": "he can't stand the sight of her"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "estaba viendo la televisión",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I was watching television"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.004",
+                      "notes": [
+                        {
+                          "text": "mirar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to watch"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "ya la veo tumbada en la arena sin hacer nada …",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I can see / picture her now lying on the sand doing nothing …"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "yo no la veo viviendo en el campo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I can't see / imagine / picture her living in the country"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.005",
+                      "notes": [
+                        {
+                          "text": "imaginar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see"
+                        },
+                        {
+                          "language": "en",
+                          "text": "to imagine"
+                        },
+                        {
+                          "language": "en",
+                          "text": "to picture"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0048186.006",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "la veo muy contenta",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "she looks / seems very happy"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "es un poco complicado, ¿sabes? — ya se ve",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it's a bit complicated, you know — so I (can) see"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿ves qué amargo es?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you see how bitter it is?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "te veo preocupado ¿qué te pasa?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you look worried, what's the matter?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "se te ve en la cara",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I can tell by your face"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ya veo/ya se ve que no tienes mucha práctica en esto",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you obviously haven't had much practice at this"
+                            },
+                            {
+                              "language": "en",
+                              "text": "I can see / it's obvious you haven't had much practice at this"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "solo ve sus problemas",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he's only interested in his own problems"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "hacerse ver",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "notes": [
+                                {
+                                  "text": "vanagloriarse",
+                                  "type": "indicator"
+                                },
+                                {
+                                  "text": "alardear",
+                                  "type": "indicator"
+                                }
+                              ],
+                              "regions": [
+                                "Southern Cone"
+                              ],
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "to show off"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿no ves que la situación es grave?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "don't / can't you see how serious the situation is?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "se le ve que disfruta con su trabajo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you can see / tell she enjoys her work"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no quiere ver la realidad",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he won't face up to reality"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.007",
+                      "notes": [
+                        {
+                          "text": "entender, notar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "se echa de ver que está muy contento",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it's obvious he's very happy"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "pronto echó de ver que le faltaba dinero",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he soon realized / noticed that some of his money was missing"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "echar de ver",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "to notice"
+                            },
+                            {
+                              "language": "en",
+                              "text": "to realize"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.008"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0048186.009",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "¡ya verás lo que es bueno si no me haces caso!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you'll see what you get if you don't do as I say"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡eso está por ver!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "we'll see about that!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "gané por tres sets a cero ¡para que veas!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I won by three sets to love, so there!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ve a ver quién es",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "go and see who it is"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "verás como no viene",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he won't come, wait and see / you'll see"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡eso ya se verá!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "we'll see"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ya no funciona ¿lo ves? / ¿viste? te dije que no lo tocaras",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "now, it's not working any more. You see? I told you not to touch it"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡para que veas! ¡tú que decías que no iba a ser capaz!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "see? I did it! and you said I wouldn't be able to!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "habrá que ver si cumple su promesa",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it remains to be seen / we'll have to see whether he keeps his promise"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.010",
+                      "notes": [
+                        {
+                          "text": "constatar, comprobar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "¡habráse visto semejante desfachatez!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "regions": [
+                                "British"
+                              ],
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "what a nerve!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "que no veas"
+                        },
+                        {
+                          "text": "¡hombre! ¿tú por aquí? — ya ves, no tenía otra cosa que hacer",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "hello, what are you doing here? — well, I didn't have anything else to do"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tenías que haber visto lo furioso que se puso",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you should have seen how angry he got"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "que no veo"
+                        },
+                        {
+                          "text": "hay que ver qué bien se portaron",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it's amazing how well they behaved"
+                            },
+                            {
+                              "language": "en",
+                              "text": "they behaved really well"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "me echó una bronca que no veas",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "she gave me such an earful!"
+                            },
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "you wouldn't believe the earful she gave me!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tengo un sueño que no veo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I'm so tired I can hardly keep my eyes open"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "hay que ver lo grosera que es",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "she's incredibly rude"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡nunca he visto cosa igual!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I've never seen anything like it!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡vieras / hubieras visto cómo se asustaron …!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you should have seen the fright they got!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "pensaba tomarme el día libre pero ya ves, aquí me tienes",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I intended taking the day off but … well, here I am"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tienen una cocina que no veas",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "they have an incredible kitchen"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡hay que ver lo que ha crecido!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "wow / gosh! hasn't he grown!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tengo un hambre que no veo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "I'm absolutely starving"
+                            },
+                            {
+                              "language": "en",
+                              "registers": [
+                                "informal"
+                              ],
+                              "text": "I'm so hungry I could eat a horse"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "vieron confirmadas sus sospechas",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "their suspicions were confirmed"
+                            },
+                            {
+                              "language": "en",
+                              "text": "they saw their suspicions confirmed"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡si vieras lo mal que lo pasé!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you can't imagine how awful it was!"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tenía una borrachera que no veas",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he was absolutely blind drunk"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "es tan bonita, si vieras …",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "she's so pretty, you should see her"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡hay que ver! hasta se llevaron el dinero de los niños",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "would you believe it! they even took the children's money"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¡hay que ver! ¡lo que son las cosas!",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "well, well, well! / I don't know! would you believe it?"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.011",
+                      "notes": [
+                        {
+                          "text": "ser testigo de",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a ver cuándo vienes a visitarnos",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "come and see us soon/one of these days"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "a ver"
+                    },
+                    {
+                      "text": "a ver si me entienden",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "notes": [
+                            {
+                              "text": "explicando",
+                              "type": "indicator"
+                            }
+                          ],
+                          "text": "let me make myself clear"
+                        },
+                        {
+                          "language": "en",
+                          "notes": [
+                            {
+                              "text": "justificando",
+                              "type": "indicator"
+                            }
+                          ],
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "don't get me wrong"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "aquí está en el periódico — ¿a ver?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it's here in the newspaper — let's see"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡a ver si ahora se cree que se lo robé yo!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I hope he doesn't think that I stole it!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "aprieta el botón a ver qué pasa",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "press the button and let's see what happens"
+                        }
+                      ]
+                    },
+                    {
+                      "notes": [
+                        {
+                          "text": "al contestar el teléfono",
+                          "type": "indicator"
+                        }
+                      ],
+                      "text": "¡a ver!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "hello?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "a ver si arreglas esa lámpara",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "when are you going to fix that light?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡cállate, a ver si alguien te oye!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "shut up, somebody might hear you"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "a ver, el fórceps, rápido",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "give me the forceps, quickly"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿a ver qué tienes ahí?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "let me see / show me what you've got there"
+                        },
+                        {
+                          "language": "en",
+                          "text": "what have you got there?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "a ver si escribes pronto",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "make sure you write soon"
+                        },
+                        {
+                          "language": "en",
+                          "text": "write soon"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "(vamos) a ver ¿de qué se trata?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "OK / all right / well, now, what's the problem?"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.012"
+                },
+                {
+                  "id": "b-es-en0048186.013",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "aún no lo sé, ya veré qué hago",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I still don't know, I'll decide what to do later"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "esto mejor que lo veas tú",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you'd better look at this / see this / have a look at this"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no vimos ese tema en clase",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "we didn't look at / study / do that topic in class"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "tengo que ver cómo lo arreglo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I have to work out / see how I can fix it"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "véase el capítulo anterior",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "see (the) previous chapter"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.014",
+                      "notes": [
+                        {
+                          "text": "estudiar",
+                          "type": "indicator"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "¿la ha visto ya un médico?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "has she been seen by a doctor yet?"
+                            },
+                            {
+                              "language": "en",
+                              "text": "has she seen a doctor yet?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿por qué no te haces ver por un especialista?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "why don't you see a specialist?"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.015",
+                      "notes": [
+                        {
+                          "text": "examinar",
+                          "type": "indicator"
+                        }
+                      ]
+                    },
+                    {
+                      "domains": [
+                        "Law"
+                      ],
+                      "id": "b-es-en0048186.016",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to try"
+                        },
+                        {
+                          "language": "en",
+                          "text": "to hear"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0048186.017",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "a mi modo / manera de ver",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "to my way of thinking"
+                            },
+                            {
+                              "language": "en",
+                              "text": "the way I see it"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "cada uno ve las cosas a su manera",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "everybody sees things differently"
+                            },
+                            {
+                              "language": "en",
+                              "text": "everybody has their own point of view"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "yo eso no lo veo bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I don't think that's right"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.018",
+                      "notes": [
+                        {
+                          "text": "juzgar, considerar",
+                          "type": "indicator"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "no le veo la gracia",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I don't think it's funny"
+                            },
+                            {
+                              "language": "en",
+                              "text": "I don't find it funny"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no veo por qué no",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I don't see why not"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿tú le ves algún inconveniente?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "can you see any drawbacks to it?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no le veo nada de malo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I can't see anything wrong in it"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "no le veo salida a esta situación",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I can't see any way out of this situation"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.019",
+                      "notes": [
+                        {
+                          "text": "encontrar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "ahora que vive lejos lo vemos menos",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "we don't see so much of him now that he lives so far away"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "aún no he ido a ver a la abuela",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I still haven't been to see / visit grandmother"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡cuánto tiempo sin verte!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I haven't seen you for ages / it's been ages since I last saw you"
+                        },
+                        {
+                          "language": "en",
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "I haven't seen you for ages!"
+                        },
+                        {
+                          "language": "en",
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "long time, no see"
+                        },
+                        {
+                          "language": "en",
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "long time, no see!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "hace tiempo que no lo veo",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I haven't seen him for some time"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "es mejor que vea a su propio médico",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it's better if you go to / see your own doctor"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.020",
+                  "notes": [
+                    {
+                      "text": "visitar, entrevistarse con",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "las veo",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I'll see you"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.021",
+                  "notes": [
+                    {
+                      "text": "en el póquer",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "eso no tiene nada que ver con lo que estamos discutiendo",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "that has nothing to do with what we are discussing"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿tuviste algo que ver en ese asunto?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "did you have anything to do with / any connection with that business?"
+                        },
+                        {
+                          "language": "en",
+                          "text": "were you involved in that business?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿tendrán algo que ver con los Icasuriaga de Zamora?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "are they related in any way to the Icasuriagas from Zamora?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "es muy joven — ¿y eso qué tiene que ver?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "he's very young — and what does that have to do with it?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no tengo nada que ver con esa compañía",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I have no connection with that company"
+                        },
+                        {
+                          "language": "en",
+                          "text": "I have nothing to do with that company"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿qué tiene que ver que sea sábado?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "what difference does it make that it's Saturday?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "tener … que ver"
+                    }
+                  ],
+                  "id": "b-es-en0048186.022"
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Intransitive",
+                  "type": "Subcategorization"
+                }
+              ],
+              "homographNumber": "201",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "enciende la luz que no veo",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "turn on the light, I can't see"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no veo bien de lejos/de cerca",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I'm nearsighted/farsighted"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.024",
+                  "notes": [
+                    {
+                      "text": "percibir con la vista",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "to see"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "pues verás, la cosa empezó cuando …",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "well you see, the whole thing began when …"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "ver para creer",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "seeing is believing"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿hay cerveza? — no sé, voy a ver",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "is there any beer? — I don't know, I'll have a look"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "verás, no quería engañarte pero …",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "look, I wasn't trying to deceive you, it's just that …"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿está Juan? — voy a ver",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "is Juan in? — I'll go and see"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.025",
+                  "notes": [
+                    {
+                      "text": "constatar",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "seguimos en veremos",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "we still don't know anything"
+                        },
+                        {
+                          "language": "en",
+                          "text": "we're still in the dark"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "vamos a ver or veamos, ¿dónde le duele?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "let's see now, where does it hurt?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "estar/seguir en veremos"
+                    },
+                    {
+                      "text": "¿vas a decir que sí? — ya veré, déjame pensarlo un poco",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "are you going to accept? I'll see, let me think about it"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "todavía está en veremos",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it isn't certain yet"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.026",
+                  "notes": [
+                    {
+                      "text": "estudiar, pensar",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "to see"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "a ver"
+                    }
+                  ],
+                  "id": "b-es-en0048186.027"
+                },
+                {
+                  "examples": [
+                    {
+                      "notes": [
+                        {
+                          "text": "procurar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "text": "ver de",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to try"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "vean de que no se dé cuenta",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "try to make sure he doesn't notice"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "vamos a ver de hacerlo lo más rápido posible",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "let's try to get it done / let's see if we can get it done as quickly as possible"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.028"
+                }
+              ]
+            },
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Pronominal",
+                  "type": "Subcategorization"
+                }
+              ],
+              "homographNumber": "202",
+              "notes": [
+                {
+                  "text": "\"verse\"",
+                  "type": "wordFormNote"
+                }
+              ],
+              "senses": [
+                {
+                  "id": "b-es-en0048186.030",
+                  "notes": [
+                    {
+                      "text": "reflexive",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "se vio reflejado en el agua",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he saw his reflection in the water"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿te quieres ver en el espejo?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "do you want to see yourself / look at yourself in the mirror?"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.031",
+                      "notes": [
+                        {
+                          "text": "percibirse",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see oneself"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "¿tú te ves viviendo allí?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "can you see yourself living there?"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.032",
+                      "notes": [
+                        {
+                          "text": "imaginarse",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see oneself"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0048186.033",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "vérselas y deseárselas",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "to have a hard time (of it)"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "me vi obligado a despedirlo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I was obliged to dismiss him"
+                            },
+                            {
+                              "language": "en",
+                              "text": "I had no choice but to dismiss him"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "verse venir algo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "to see sth coming"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "me las vi y me las deseé estudiando y trabajando durante cinco años",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it was really tough / hard / it was a real struggle studying and working for five years"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "me las veía venir por eso tomé precauciones",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I saw it coming so I took precautions"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "se vio en la necesidad de pedir dinero prestado",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he found himself having to borrow money"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "me vi en un aprieto",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I found myself in a tight spot"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "vérselas venir"
+                        }
+                      ],
+                      "id": "b-es-en0048186.034",
+                      "notes": [
+                        {
+                          "text": "hallarse",
+                          "type": "indicator"
+                        },
+                        {
+                          "text": "+ complement",
+                          "type": "grammaticalNote"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to find oneself"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "las cifras se ven aumentadas al final del verano",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "the figures rise at the end of the summer"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "este problema se ha visto agravado por …",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "this problem has been made worse by …"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "el país se verá beneficiado con este acuerdo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "the country will benefit from this agreement"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0048186.035",
+                      "notes": [
+                        {
+                          "text": "ser",
+                          "type": "indicator"
+                        }
+                      ],
+                      "registers": [
+                        "formal"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "me veo gordísima con esta falda",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I look really fat in this skirt"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.036",
+                  "notes": [
+                    {
+                      "text": "parecer",
+                      "type": "indicator"
+                    }
+                  ],
+                  "regions": [
+                    "Latin America"
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "to look"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "se veían un par de veces al mes",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "they used to see each other / meet a couple of times a month"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "ya no me veo con ellos",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I don't see them any more"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "verse con algn",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to see sb"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "tendrá que vérselas conmigo como se atreva a molestarte",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "he'll have me to deal with if he dares to bother you"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "vérselas con algn"
+                    },
+                    {
+                      "text": "¡nos vemos!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I'll be seeing you!"
+                        },
+                        {
+                          "language": "en",
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "see you!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "nos vemos a las siete",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I'll meet / see you at seven"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "es mejor que no nos veamos durante un tiempo",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "we'd better not see each other for a while"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0048186.037",
+                  "notes": [
+                    {
+                      "text": "recíproco",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "encontrarse",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "to meet"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Verb",
+          "text": "ver"
+        }
+      ],
+      "type": "headword",
+      "word": "ver"
+    }
+  ]
+}

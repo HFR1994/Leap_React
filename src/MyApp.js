@@ -1,17 +1,20 @@
 import React, {Component} from 'react';
 import { withLeapContainer } from 'react-leap';
 import ReactHowler from 'react-howler';
-import axios from 'axios';
+import Dictionary from "oxford-dictionary";
+import adios from './responses/adios';
+import aplauso from './responses/aplauso';
+import bien from './responses/bien';
+import hola from './responses/hola';
+import ver from './responses/ver'
+import Typing from 'react-typing-animation';
+import './App.css';
 
 let audioParts = [];
 let finalAudio = undefined;
 let websocket = undefined;
 let json = [];
 const datos = ["adios","bien","hola","aplauso","ver"];
-const instance = axios.create({baseURL: 'https://some-domain.com/api/',
-    timeout: 1000,
-    headers: {'X-Custom-Header': 'foobar'}
-});
 
 class MyApp extends Component {
 
@@ -19,30 +22,67 @@ class MyApp extends Component {
         super(props);
         this.state={
             base64data:undefined,
-            ready: true
+            ready: true,
+            text: " ",
+            synonym: " "
         };
         this.onError = this.onError.bind(this);
         this.onMessage = this.onMessage.bind(this);
         this.sound = this.sound.bind(this);
         this.search = this.search.bind(this);
+        this.quick = this.quick.bind(this);
     }
 
-    async search(number){
+    search(number){
+
+        const config = {
+            app_id : "bc07a343",
+            app_key : "94e7668ae68d54e6e2085385c48f97ca",
+            source_lang : "es"
+        };
+
         try {
-            const response = await axios.get(`https://od-api.oxforddictionaries.com/api/v1/entries/es/${datos[number]}/translations=en`);
-            return JSON.parse(response);
-        } catch (error) {
-            return error
+            let dict = new Dictionary(config);
+
+            dict.translate({
+                word: "hola",
+                target_language: "en"
+            }).then(function (res) {
+
+                    return res.json();
+                },
+                function (err) {
+                    return err
+                });
+        }catch (err) {
+            return err;
+        }
+
+    }
+
+    quick(number){
+        console.log(hola);
+        switch (number) {
+            case 1:
+                return adios.results[0].lexicalEntries[0].entries[0].senses[0];
+            case 2:
+                return bien.results[0].lexicalEntries[0].entries[0].senses[0];
+            case 3:
+                return hola.results[0].lexicalEntries[0].entries[0].senses[0];
+            case 4:
+                return aplauso.results[0].lexicalEntries[0].entries[0].senses[0];
+            case 5:
+                return ver.results[0].lexicalEntries[0].entries[0].senses[0];
+            default:
+                return JSON.parse("{}");
         }
     }
-
-
 
     render() {
 
         const hands = this.props.frame.hands;
 
-        const {ready, base64data} = this.state;
+        const {ready, base64data, text, synonym} = this.state;
 
         let palm, thumb, index, middle, ring, pinky;
 
@@ -66,13 +106,19 @@ class MyApp extends Component {
             if (hands.length === 1) {
                 if (hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[1] >= 0 && hands[0].pointables[0].direction[2] < 0) {
                     console.log("ADIOS");
+                    this.setState({text:"ADIOS"});
+                    this.setState({synonym:"CHIAO"});
                     this.sound(1);
                 } else {
                     if (hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[1] <= 0 && hands[0].pointables[0].direction[2] < 0 && hands[0].pointables[4].direction[0] > 0) {
                         console.log("BIEN");
+                        this.setState({text:"BIEN"});
+                        this.setState({synonym:"NADA MAL"});
                         this.sound(2);
                     } else {
                         console.log("HOLA");
+                        this.setState({text:"HOLA"});
+                        this.setState({synonym:"SALUDOS"});
                         this.sound(3);
                     }
                 }
@@ -80,9 +126,13 @@ class MyApp extends Component {
                 if (hands.length === 2) {
                     if (hands[0].grabStrength === 0) {
                         console.log("APLAUSOS");
+                        this.setState({text:"APLAUSOS"});
+                        this.setState({synonym:"NO LO SE JOVEN"});
                         this.sound(4);
                     } else {
                         console.log("NOS VEMOS");
+                        this.setState({text:"NOS VEMOS"});
+                        this.setState({synonym:"HASTA LA PROXIMA"});
                         this.sound(5);
                     }
                 }
@@ -126,9 +176,10 @@ class MyApp extends Component {
 
     sound(n) {
 
+        this.quick(n);
         let message;
         const voice = "es-LA_SofiaVoice";
-        const token = "6WPkuRpsVpZGhGWAcpZr9heiHrzYQFB7Y0dF%2BaIw83Ewx6%2FMzW6FfR%2BtjMCZTSzQ%2Focsoe3xPxbxSB7xPGvGdOZFe58H2Jw%2FgdvpkAvrnZzwYgi5CnbVwmvWLcNwfyFc%2BJULvBogBOdeLUI5ar49jbPvgLgyLz06vR1TpjNfTQzCwQxLBg2715XpN1CelaqkLthddgQo0ki%2FK%2FauofvUflmv1qP8eFSPBMXUfjdElM8dL9yvYsSBeixz9zATIGMWE8OFXRCGh%2FqX05dZSX1FUCx%2FT7I6Lv2cVtieVjfFrHj44fITo5bKhBqWIeq6UOOs8OdTemyLBj3%2BF9NfZtloeh6n6jGlGrxNfYT4xNc9jaMv2PhyZQTFC2%2FPady4OkiJMEjehZQjUQTq5PV7f7p87iXktHCY9OJUSY3lG6OKDjUiM1HMqzc%2Fxo%2F04E5%2BGoR1yMEq9%2F5a%2B3AOqWh7oPcapdc%2Bfscep0kf9Jjzo8FDI4nzUIBpHdzCOZJ%2B%2Fil4Enj7DWYDsgJCDa02B1iZ%2BEcLRyl%2BLg9VBDrF7gd53enJuDKL7EH6V6TgEao6OmNlrzEw4uvpg5RYlDUafO2102GAf9iyfAmK8kQqSgrqCcLiidUZbYva1uLCt61gufocnLs%2BxtK39fUFfJFZnmmGW%2Bxin5AzITVaNEJUeLq9DSGs7oPONiqEwUzCqzV1KqG3JkCju6ItjYg4zrqjMikFUAAfaTi9lvDN%2Fb%2Fm4Dz5I%2BO7EC4zijRC9dbx%2BEfXiKSr86DyNk9nz%2FW9xxDJQMTKJcO4mFGTWeC0AaT%2F0UyJWEy7%2BM7fUXfoETh0d84FanG4lx4o5dQmP%2FavyT0ObqTwfuP5BgrxpPaVbUdQQP7K2HszqfgTtzk0RLjTTsGPhRMV%2F0YhuQxVev%2BBZFo8X49TmCxlo%2F29RdzF9lNzKViQTkFVD0FnHl8eO1nvtFqP%2FFCC2%2FIe1pDkOe7Ymcf23CRi%2F8zLThlJ3kGrYSOuu8ictkGXy40%3D";
+        const token = "591b0gQifoGO75X1WXZyDdpzyJf%2B%2BVnh7lCFJ0aT7ACMrhYwYAlKHD8RaivpWH5oPq1MgtnplyvBWXI8lvwq5N1UTr6wvqMpPiIxrPdsRYai1UnKMw%2Fp7Xod8IeKaVbJjf7MMKKcE9IwO3srk7kjsZr9lZuiu3t15hOp6F2cT4dXHT%2FruLuylbXSM54rqxhXJwmbDLdVJ7IaKcw4p%2FXGyd1EW50hlnu%2BPtdboB%2B5GTJ8FKelQEBsbUnXQu%2F55y0sCizVwLWQIpeu5BL1SfdoL8ja%2FBRul5mEzVFu6vSgotQySZuKvhJFJdMhd8XTU%2FxZylo3kx3zSKOk1pkXHL5SGldDA49%2F8xjvJCZQUDulAjitz%2FVQrVThBbrxkVEGgkUAbOEIi3HxZrBgUCB0eaDYOJH7%2F%2Bkbnh6oWO6nQxxCh66PiVwXTwBgDdtfrsIDRMp%2F7k67EZlfpBPApPYfudK9iu7veyODYmBOH6nvHnUEY4BA5aAKMWQPrzEqe95kP%2BWvHFWiZMB4RwUsyQSDOIoPKDMuxsyBdaJQUSI0N5K3qQZhPfQE%2FYOdI2CXu6bbtV6XTsyBz0vqVDPeODCHxb2gshZ9TAv9WT0MfU18EmRflVphQfinLhQcvzLzEOZH1pVzXTLCSQnNUNLBtTQUrOKnn4MaXPYhaoyIo89yBGron%2BlFsJbQ4ITE87w7Kiug%2FNZneNIcUny3Z0wCsIhZjcO0o8PD696%2BAgpnKJKbLnMcNIO69AUCN10m0PiVxt8l2ug6iMNwd%2FQU7Epv6iMRwH25RFn8w2wxzr%2B6ZpOsCrvTW01WwB%2B8NF1%2BdGKsvd8bwtK5O1ZZ6UQJUKZBCeHsJoeu6J1OVZVpbVYdK%2BLaHVWcz7vUfMixqE7XoSrTG8DSk%2BQdF%2BLkj4qHdBR91LwgFJw4c7iXv0bVmH%2BVYt1vd2e%2F9cLLFaM25uQNgjveuZ8m1PWjEhoSrrVhehKDP0upaCAeCJ5QBdLSSosF%2BGn20A0U1a0%3D";
         const wsURI = "wss://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?voice=" +
             voice + "&watson-token=" + token;
 

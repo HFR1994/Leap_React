@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "adi%C3%B3s",
+      "language": "es",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "¡adiosito!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "bye-bye"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0000875.002",
+                  "translations": [
+                    {
+                      "language": "en",
+                      "notes": [
+                        {
+                          "text": "al despedirse",
+                          "type": "indicator"
+                        }
+                      ],
+                      "text": "goodbye"
+                    },
+                    {
+                      "language": "en",
+                      "notes": [
+                        {
+                          "text": "al despedirse",
+                          "type": "indicator"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "text": "bye"
+                    },
+                    {
+                      "language": "en",
+                      "notes": [
+                        {
+                          "text": "al pasar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "text": "hello"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Interjection",
+          "text": "adiós"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Masculine",
+                  "type": "Gender"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "001",
+              "senses": [
+                {
+                  "crossReferenceMarkers": [
+                    "ver tb decir"
+                  ],
+                  "crossReferences": [
+                    {
+                      "id": "decir",
+                      "text": "decir",
+                      "type": "see also"
+                    }
+                  ],
+                  "examples": [
+                    {
+                      "text": "decirle adiós a algn",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to say goodbye to sb"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0000875.004"
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Noun",
+          "text": "adiós"
+        }
+      ],
+      "type": "headword",
+      "word": "adiós"
+    }
+  ]
+}

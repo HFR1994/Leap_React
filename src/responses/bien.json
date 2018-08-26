@@ -1,0 +1,1403 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "bien",
+      "language": "es",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Invariable",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "100",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "¡tú no estás bien de la cabeza!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "you're not right in the head!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no me siento / encuentro bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I don't feel well"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "mi padre no anda / no está bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "my father's not very well"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "estuvo enfermo pero ya está bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "he was ill but he's all right now"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005885.002",
+                  "notes": [
+                    {
+                      "text": "sano",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "estar",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "well"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "no son ricos, pero están bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "they're not rich but they're reasonably well off / they're comfortably off"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "los padres están muy bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "her parents are well off"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005885.003",
+                  "notes": [
+                    {
+                      "text": "económicamente acomodado",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "estar",
+                      "type": "grammaticalNote"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0005885.004",
+                  "notes": [
+                    {
+                      "text": "refiriéndose al atractivo sexual",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "estar",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "registers": [
+                    "informal"
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "good-looking"
+                    },
+                    {
+                      "language": "en",
+                      "text": "attractive"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "se está bien a la sombra",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it's nice in the shade"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "estoy bien aquí",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I'm fine / all right here"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿vas bien allí atrás?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "are you all right in the back?"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005885.005",
+                  "notes": [
+                    {
+                      "text": "cómodo, agradable",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "estar",
+                      "type": "grammaticalNote"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "este café sabe muy bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "this coffee tastes very good / nice"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡qué bien huele!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it smells really good!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡qué bien hueles!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "you smell nice!"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005885.006",
+                  "notes": [
+                    {
+                      "text": "agradable",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "ese cuadro no queda bien ahí",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "that painting doesn't look right there"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡qué bien, mañana es fiesta!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "great! tomorrow's a holiday!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡está bien!, si no quieres hacerlo no lo hagas",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "all right / okay, then! if you don't want to do it, don't"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "la casa está muy bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "the house is very nice"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿está bien así, señorita?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "is that right / all right, miss?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "podríamos ir mañana, si te parece bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "we could go tomorrow, if you like"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿lo has leído? está muy bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "have you read it? it's very good"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "estás / quedaste / saliste muy bien en esta foto",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "you look very nice / really good in this photograph"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "la lavadora no funciona — ¡pues qué bien!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "registers": [
+                            "ironic"
+                          ],
+                          "text": "the washing machine's not working — oh, great! / well, that's great!"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005885.007",
+                  "notes": [
+                    {
+                      "text": "satisfactorio",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "estar",
+                      "type": "grammaticalNote"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "estuviste bien en negarle la entrada",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "you did / were right to refuse to let him in"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "está bien que se premie la iniciativa",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it's right / good that initiative should be rewarded"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005885.008",
+                  "notes": [
+                    {
+                      "text": "correcto, adecuado",
+                      "type": "indicator"
+                    },
+                    {
+                      "text": "estar",
+                      "type": "grammaticalNote"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "right"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0005885.009",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "no ando bien de tiempo",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I don't have much time"
+                            },
+                            {
+                              "language": "en",
+                              "text": "I'm a bit short of time"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "estar bien de algo"
+                        },
+                        {
+                          "text": "¿estamos bien de aceite?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "are we all right for oil?"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005885.010",
+                      "notes": [
+                        {
+                          "text": "indicando suficiencia",
+                          "type": "indicator"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "ya está bien de jugar, ahora a dormir",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you've been playing long enough, now go to bed"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ya está bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "that's enough"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005885.011"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0005885.012",
+                  "subsenses": [
+                    {
+                      "crossReferences": [
+                        {
+                          "id": "ni%C3%B1o",
+                          "text": "niño",
+                          "type": "see also"
+                        }
+                      ],
+                      "examples": [
+                        {
+                          "text": "viven en un barrio bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "they live in a well-to-do area"
+                            },
+                            {
+                              "language": "en",
+                              "regions": [
+                                "British"
+                              ],
+                              "text": "they live in a posh area"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005885.013",
+                      "notes": [
+                        {
+                          "text": "de buena posición social",
+                          "type": "indicator"
+                        }
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "well-to-do"
+                        }
+                      ]
+                    },
+                    {
+                      "id": "b-es-en0005885.014",
+                      "regions": [
+                        "River Plate"
+                      ],
+                      "registers": [
+                        "informal"
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "notes": [
+                            {
+                              "text": "honrado",
+                              "type": "indicator"
+                            }
+                          ],
+                          "text": "respectable"
+                        },
+                        {
+                          "language": "en",
+                          "notes": [
+                            {
+                              "text": "honrado",
+                              "type": "indicator"
+                            }
+                          ],
+                          "text": "decent"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Adjective",
+          "text": "bien"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "200",
+              "senses": [
+                {
+                  "id": "b-es-en0005886.009",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "¿estás bien seguro?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "are you absolutely sure?"
+                            },
+                            {
+                              "language": "en",
+                              "text": "are you positive / certain?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "bien por debajo de lo normal",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "well below average"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "canta bien mal",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he sings really / very badly"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "ponte bien adelante",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "sit well forward"
+                            },
+                            {
+                              "language": "en",
+                              "text": "sit close to the front"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "llegó bien entrada la noche",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "she arrived very late at night"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005886.010",
+                      "notes": [
+                        {
+                          "text": "muy",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "very"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "vale bien dos millones",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it's worth two million easily"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "yo no me acuerdo pero bien pudo ser",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I don't remember but it could well / easily have been"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005886.011",
+                      "notes": [
+                        {
+                          "text": "fácilmente",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "easily"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "bien podías haberlo ayudado",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you couldormight have helped him!"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005886.012",
+                      "notes": [
+                        {
+                          "text": "en recriminaciones, protestas",
+                          "type": "indicator"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "¿por qué no le compras algo?, a ti bien que te gusta que te hagan regalos",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "why don't you buy her something? you like it when people give you presents"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "pero bien que llama cuando necesita dinero",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "he's quick enough to call when he needs money, though"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "bien que …"
+                        }
+                      ],
+                      "id": "b-es-en0005886.013"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "estar a bien con algn",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "to be on good terms with sb"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "una chica más bien delgada",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "a rather thin girl"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "más bien"
+                    },
+                    {
+                      "text": "no bien llegó, le dieron la noticia",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "as soon as he arrived they told him the news"
+                        },
+                        {
+                          "language": "en",
+                          "text": "no sooner had he arrived than they told him the news"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "le ruego tenga a bien considerar mi solicitud",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I would be grateful if you would consider my application"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "si bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "although"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "tener a bien hacer algo"
+                    },
+                    {
+                      "text": "¿vas a ir? — ¡más bien!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "registers": [
+                            "informal"
+                          ],
+                          "text": "are you going to go? — you bet!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no me cae bien — di más bien que no lo puedes ver",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I don't like him — what you mean is you can't stand the sight of him"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no bien / (River Plate) ni bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "notes": [
+                            {
+                              "text": "tan pronto como",
+                              "type": "indicator"
+                            },
+                            {
+                              "text": "en cuanto",
+                              "type": "indicator"
+                            }
+                          ],
+                          "text": "as soon as"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "le rogamos tenga a bien abonar esta suma a la mayor brevedad posible",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "registers": [
+                            "formal"
+                          ],
+                          "text": "we would ask you to pay this sum as soon as possible"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005886.014",
+                  "notes": [
+                    {
+                      "text": "in phrases",
+                      "type": "grammaticalNote"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0005886.005",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "bien sabes que …",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "you know perfectly well / very well that …"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "¿cerraste bien?",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "did you make sure the door was locked (properly)?"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "el cerdo debe comerse bien cocido",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "pork should be well cooked / properly cooked before being eaten"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005886.006",
+                      "notes": [
+                        {
+                          "text": "a fondo, completamente",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "well"
+                        },
+                        {
+                          "language": "en",
+                          "text": "properly"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "escucha bien lo que te voy a decir",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "listen carefully to what I'm going to say"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005886.007",
+                      "notes": [
+                        {
+                          "text": "con cuidado, atención",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "carefully"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "no le fue bien en Alemania",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "things didn't work out for her in Germany"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "se come de bien allí …",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "the food is so good there!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¿cómo te va? — bien, ¿y a ti?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "how are things? — fine, how about you?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "quien bien te quiere te hará llorar",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "you have to be cruel to be kind"
+                        },
+                        {
+                          "language": "en",
+                          "text": "sometimes you have to be cruel to be kind"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005886.002",
+                  "notes": [
+                    {
+                      "text": "de manera satisfactoria",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "well"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "vendió el coche muy bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "she sold the car well / for a good price"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "el local está muy bien ubicado",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "the premises are very well situated"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005886.003",
+                  "notes": [
+                    {
+                      "text": "ventajosamente",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "well"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "me habló muy bien de ti",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "he spoke very highly of you"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "yo prefiero pensar bien de la gente",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "I prefer to think well of people"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005886.004",
+                  "notes": [
+                    {
+                      "text": "favorablemente",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "pórtate bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "behave yourself"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡bien hecho/dicho!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "well done/said!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡bien dice tu padre que eres un terco!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "your father's dead right when he says you're stubborn"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "hiciste bien en decírselo",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "you did the right thing to tell him"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005886.008",
+                  "notes": [
+                    {
+                      "text": "correctamente",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "well"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Adverb",
+          "text": "bien"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "300",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "y bien ¿estás dispuesto a hacerlo o no?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "so, are you prepared to do it or not?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "bien, sigamos adelante",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "right then / fine, let's continue"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "bien, … ¿dónde estábamos?",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "now / right, … where were we?"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "pues bien, como te iba diciendo …",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "so, as I was telling you …"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005887.003",
+                  "notes": [
+                    {
+                      "text": "como enlace",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "¡bien!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "well done!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "¡bien, muchachos!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "well done, boys!"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "no habrá clases hoy — ¡bieeeen!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "there won't be any lessons today — yippee / hurrah!"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005887.004",
+                  "notes": [
+                    {
+                      "text": "expresando aprobación",
+                      "type": "indicator"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Interjection",
+          "text": "bien"
+        },
+        {
+          "entries": [
+            {
+              "homographNumber": "400",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "o bien te disculpas o te quedas castigado",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "either you say you're sorry or I'll keep you in"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "puede abonarse (o) bien al contado (o) bien en 12 cuotas mensuales",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "payment may be made (either) in cash or in twelve monthly installments"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005888.002"
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Conjunction",
+          "text": "bien"
+        },
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Masculine",
+                  "type": "Gender"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "500",
+              "senses": [
+                {
+                  "domains": [
+                    "Philosophy"
+                  ],
+                  "examples": [
+                    {
+                      "text": "haz bien y no mires a quién",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "do good to all alike"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "un hombre de bien",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "a good man"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "el bien y el mal",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "right and wrong"
+                        },
+                        {
+                          "language": "en",
+                          "text": "good and evil"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005889.002",
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "good"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0005889.003",
+                  "subsenses": [
+                    {
+                      "examples": [
+                        {
+                          "text": "acepté, no sé si para bien o para mal",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I accepted, though I'm not sure if it was a good move or not"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "trabajar por el bien de todos",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "to work for the good of all"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "que sea para bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "I hope things go well for you/him/them"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "es por tu bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "it's for your own good"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005889.004",
+                      "notes": [
+                        {
+                          "text": "beneficio, bienestar",
+                          "type": "indicator"
+                        }
+                      ],
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "good"
+                        }
+                      ]
+                    },
+                    {
+                      "examples": [
+                        {
+                          "text": "hacer bien"
+                        },
+                        {
+                          "text": "la sopa te hará bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "the soup will do you good"
+                            }
+                          ]
+                        },
+                        {
+                          "text": "sus palabras me hicieron mucho bien",
+                          "translations": [
+                            {
+                              "language": "en",
+                              "text": "what he said helped me a lot / did me a lot of good"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": "b-es-en0005889.005"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "¡mi bien! / ¡bien mío!",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "my dear / darling"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005889.006",
+                  "notes": [
+                    {
+                      "text": "apelativo",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "dear"
+                    },
+                    {
+                      "language": "en",
+                      "text": "darling"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "grade of between 6 and 6.9 on a scale of 1-10"
+                  ],
+                  "id": "b-es-en0005889.007",
+                  "notes": [
+                    {
+                      "text": "en calificaciones escolares",
+                      "type": "indicator"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "la orden afecta a todos sus bienes",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "the order applies to all his assets / possessions / goods"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "el único bien valioso",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "the only item of value"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0005889.008",
+                  "notes": [
+                    {
+                      "text": "posesión",
+                      "type": "indicator"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Noun",
+          "text": "bien"
+        }
+      ],
+      "type": "headword",
+      "word": "bien"
+    }
+  ]
+}

@@ -2,6 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2592558-a47b-4278-b24e-d4670b6318a1" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/responses/adios.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responses/aplauso.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responses/bien.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responses/hola.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/responses/ver.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MyApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyApp.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,8 +74,8 @@
       <file leaf-file-name="MyApp.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MyApp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="444">
+              <caret line="159" column="9" lean-forward="true" selection-start-line="143" selection-start-column="8" selection-end-line="159" selection-end-column="9" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -76,8 +86,11 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+            <state relative-caret-position="274">
+              <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,10 +115,13 @@
       <find>cons</find>
       <find>console.log</find>
       <find>base64</find>
+      <find>sound</find>
+      <find>senses;</find>
     </findStrings>
     <replaceStrings>
       <replace>pinky</replace>
       <replace>let</replace>
+      <replace>.senses[0];</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -117,8 +133,13 @@
         <option value="$PROJECT_DIR$/src/package.json" />
         <option value="$PROJECT_DIR$/src/file.js" />
         <option value="$PROJECT_DIR$/archivl" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/file" />
+        <option value="$PROJECT_DIR$/src/responses/hola.json" />
+        <option value="$PROJECT_DIR$/src/responses/adios.json" />
+        <option value="$PROJECT_DIR$/src/responses/bien.json" />
+        <option value="$PROJECT_DIR$/src/responses/ver.json" />
+        <option value="$PROJECT_DIR$/src/responses/aplauso.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/MyApp.js" />
       </list>
     </option>
@@ -182,6 +203,11 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\frhec\Documents\Proyectos\leap_data\src" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -211,7 +237,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41852000" />
+    <option name="totallyTimeSpent" value="49854000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -229,7 +255,7 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24085851" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.3290441" />
       <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Docker" order="0" weight="0.3290441" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" weight="0.3290441" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3290441" />
@@ -279,23 +305,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hola/634.json" />
-    <entry file="file://$PROJECT_DIR$/src/hola/1583.json" />
-    <entry file="file://$PROJECT_DIR$/src/hola/57.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hola/0.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hola/1.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hola/2.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hola/3.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hola/4.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -360,9 +369,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/package.json" />
     <entry file="file://$PROJECT_DIR$/../celulas_contentas/Front/src/containers/Appointment/index.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/leapjs/lib/controller.js" />
     <entry file="file://$PROJECT_DIR$/src/hola/634.json" />
     <entry file="file://$PROJECT_DIR$/src/hola/1583.json" />
@@ -464,17 +470,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/adios/4.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret column="756" selection-start-column="250" selection-end-column="756" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/responses/hola.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-end-line="98" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/responses/adios.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2108">
+          <caret line="124" column="1" selection-start-line="124" selection-start-column="1" selection-end-line="124" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/responses/bien.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="1402" column="1" selection-start-line="1402" selection-start-column="1" selection-end-line="1402" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/responses/aplauso.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="103" column="13" lean-forward="true" selection-start-line="103" selection-start-column="13" selection-end-line="103" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/responses/ver.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="2088" column="1" selection-start-line="2088" selection-start-column="1" selection-end-line="2088" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        <state relative-caret-position="274">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyApp.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="444">
+          <caret line="159" column="9" lean-forward="true" selection-start-line="143" selection-start-column="8" selection-end-line="159" selection-end-column="9" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>

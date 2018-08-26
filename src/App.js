@@ -13,7 +13,6 @@ class App extends Component {
     }
 
     render() {
-
         return (
             <div>
                 <LeapProvider options={{enableGestures: true, optimizeHMD: true}}>

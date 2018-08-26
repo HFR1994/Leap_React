@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "hola",
+      "language": "es",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "id": "b-es-en0024572.003",
+                  "notes": [
+                    {
+                      "text": "saludó",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "hello"
+                    },
+                    {
+                      "language": "en",
+                      "registers": [
+                        "informal"
+                      ],
+                      "text": "hi!"
+                    }
+                  ]
+                },
+                {
+                  "id": "b-es-en0024572.004",
+                  "notes": [
+                    {
+                      "text": "al contestar el teléfono",
+                      "type": "indicator"
+                    }
+                  ],
+                  "regions": [
+                    "River Plate"
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "hello?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Interjection",
+          "text": "hola"
+        }
+      ],
+      "type": "headword",
+      "word": "hola"
+    },
+    {
+      "id": "hol%C3%A1",
+      "language": "es",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "id": "b-es-en0024573.002",
+                  "regions": [
+                    "River Plate"
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "hello?"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Interjection",
+          "text": "holá"
+        }
+      ],
+      "type": "headword",
+      "word": "holá"
+    }
+  ]
+}

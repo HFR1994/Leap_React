@@ -1,0 +1,115 @@
+{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "aplauso",
+      "language": "es",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "grammaticalFeatures": [
+                {
+                  "text": "Masculine",
+                  "type": "Gender"
+                },
+                {
+                  "text": "Singular",
+                  "type": "Number"
+                }
+              ],
+              "homographNumber": "000",
+              "senses": [
+                {
+                  "examples": [
+                    {
+                      "text": "los aplausos duraron varios minutos",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "the applause went on for several minutes"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "el público le dedicó un cerrado aplauso",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "he received an enthusiastic / a hearty ovation from the audience"
+                        },
+                        {
+                          "language": "en",
+                          "text": "the audience applauded him enthusiastically"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0003298.003",
+                  "notes": [
+                    {
+                      "text": "ovación",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "applause"
+                    }
+                  ]
+                },
+                {
+                  "examples": [
+                    {
+                      "text": "su tenacidad es digna de aplauso",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "his tenacity is commendable / praiseworthy"
+                        }
+                      ]
+                    },
+                    {
+                      "text": "recibió el aplauso de la crítica",
+                      "translations": [
+                        {
+                          "language": "en",
+                          "text": "it received critical acclaim"
+                        },
+                        {
+                          "language": "en",
+                          "text": "it was praised by / it received praise from the critics"
+                        }
+                      ]
+                    }
+                  ],
+                  "id": "b-es-en0003298.004",
+                  "notes": [
+                    {
+                      "text": "elogió",
+                      "type": "indicator"
+                    }
+                  ],
+                  "translations": [
+                    {
+                      "language": "en",
+                      "text": "praise"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "language": "es",
+          "lexicalCategory": "Noun",
+          "text": "aplauso"
+        }
+      ],
+      "type": "headword",
+      "word": "aplauso"
+    }
+  ]
+}
