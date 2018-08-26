@@ -9,7 +9,8 @@
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
     "react-leap": "^1.0.0-beta.1",
-    "react-scripts": "1.1.5"
+    "react-scripts": "1.1.5",
+    "yarn-install": "^1.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
