@@ -111,7 +111,7 @@ class MyApp extends Component {
 
         let message;
         const voice = "es-LA_SofiaVoice";
-        const token = "1Gk%2F31Nwcfn%2FNGF3luAM%2BI4KnvKkLwLpdLF77DIxquSaYs9ZjyhYL2iCWVw%2BGqRP7IHmeFGepoQXIoQ%2BmaLPAKLHy3dQuJyQaRwaRqMCMDstga28qzHX3twB3KinxJZ%2Fef0JojDbBZcft3Bi8lJ0N6nn1rMIonZ97w3ocKT3OPkR7fJdcEqyBfpXuuRtEvxAYti%2FOC1qa1NU%2FNNQr6M%2BUI3H52HsnARBEnZ1IZcuIwrdvENhvAHGhbtaYi3OUgD8EWepuBLIMJELwuXbPYNalpODgHy%2FBQUPUE52McvBZaVRcT%2FCW2pUGSmAj6szIMz0RFy7c2mNRYbVnumYA6sUJJOVccEYwB2Y7duTMrHjt7pNxVIhd1vsnW0ek6s7zSzyhugKvN6Psxbeidw0K3YEKeroeGuBk2PGgIDlfJdTSAeiiTbZHrY9gAWjKklF8vm5XmL8%2B0MHTzSl%2FDg%2BlxUwXyFa3hsr88uBtPRqLYp0ocp5jWAQ9tFN5UuXIWQSXBvEYEr4%2BbXn13GlKPndsZoLtX5QbHqfoYFIxbIwZbOFkmQ69hCfqkAJna9DccyjxtG1MKFTQhDT8sECzAnk3MCEKppcaWtGb31fXXOdrdck%2BCg%2FeWycrFsl9N3YlY%2BHSRM4z%2Bo2Eu%2BjN5U2zxFaWF9jdCKMNF%2Fbb9%2BFyGWymZU2sEghOH054j3LYmkwhyDVOoyTz2nqRiaVGtS3P9%2BvFMWNC5bKUtPLmNUE%2Fo3FuBgpHuqzPVwP2VE9xzg4CrKMNIhgitXnAJGYGkEm6l4aZ%2FzMRE5LpDMbp0nYqoNKO5FsUAsddxTRumrGG4W8DvbUFfF8g09w8BR7ZlqRUNUub09Bf7yjug3fpZMBrFlHQlCin6c3wRfnx%2BW4bOBNFV7vl6mAnxilpHgW56dfxd4jG%2BPfWofKnEeIokaVaHSO8w3%2BUiHpnIqC86IzrvPz0JE9kufBFjbFmmlCzrSXpxB%2FwLRLKc3yJpANU2V1m8mUsxrjom4%3D";
+        const token = "6WPkuRpsVpZGhGWAcpZr9heiHrzYQFB7Y0dF%2BaIw83Ewx6%2FMzW6FfR%2BtjMCZTSzQ%2Focsoe3xPxbxSB7xPGvGdOZFe58H2Jw%2FgdvpkAvrnZzwYgi5CnbVwmvWLcNwfyFc%2BJULvBogBOdeLUI5ar49jbPvgLgyLz06vR1TpjNfTQzCwQxLBg2715XpN1CelaqkLthddgQo0ki%2FK%2FauofvUflmv1qP8eFSPBMXUfjdElM8dL9yvYsSBeixz9zATIGMWE8OFXRCGh%2FqX05dZSX1FUCx%2FT7I6Lv2cVtieVjfFrHj44fITo5bKhBqWIeq6UOOs8OdTemyLBj3%2BF9NfZtloeh6n6jGlGrxNfYT4xNc9jaMv2PhyZQTFC2%2FPady4OkiJMEjehZQjUQTq5PV7f7p87iXktHCY9OJUSY3lG6OKDjUiM1HMqzc%2Fxo%2F04E5%2BGoR1yMEq9%2F5a%2B3AOqWh7oPcapdc%2Bfscep0kf9Jjzo8FDI4nzUIBpHdzCOZJ%2B%2Fil4Enj7DWYDsgJCDa02B1iZ%2BEcLRyl%2BLg9VBDrF7gd53enJuDKL7EH6V6TgEao6OmNlrzEw4uvpg5RYlDUafO2102GAf9iyfAmK8kQqSgrqCcLiidUZbYva1uLCt61gufocnLs%2BxtK39fUFfJFZnmmGW%2Bxin5AzITVaNEJUeLq9DSGs7oPONiqEwUzCqzV1KqG3JkCju6ItjYg4zrqjMikFUAAfaTi9lvDN%2Fb%2Fm4Dz5I%2BO7EC4zijRC9dbx%2BEfXiKSr86DyNk9nz%2FW9xxDJQMTKJcO4mFGTWeC0AaT%2F0UyJWEy7%2BM7fUXfoETh0d84FanG4lx4o5dQmP%2FavyT0ObqTwfuP5BgrxpPaVbUdQQP7K2HszqfgTtzk0RLjTTsGPhRMV%2F0YhuQxVev%2BBZFo8X49TmCxlo%2F29RdzF9lNzKViQTkFVD0FnHl8eO1nvtFqP%2FFCC2%2FIe1pDkOe7Ymcf23CRi%2F8zLThlJ3kGrYSOuu8ictkGXy40%3D";
         const wsURI = "wss://stream.watsonplatform.net/text-to-speech/api/v1/synthesize?voice=" +
             voice + "&watson-token=" + token;
 
@@ -168,11 +168,16 @@ class MyApp extends Component {
             const format = 'audio/ogg;codecs=opus';
             const reader = new FileReader();
             finalAudio = new Blob(audioParts, {type: format});
-            reader.readAsDataURL(finalAudio);
-            audioParts = [];
-            reader.onloadend = function () {
-                self.setState({base64data: reader.result});
-            };
+            if(finalAudio.size !== 0) {
+                reader.readAsDataURL(finalAudio);
+                audioParts = [];
+                reader.onloadend = function () {
+                    self.setState({base64data: reader.result});
+                };
+            }else {
+                console.log("Recibí cero bytes");
+                self.setState({ready: true});
+            }
         });
 
         this.setState({ready:false});

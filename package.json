@@ -7,9 +7,13 @@
     "fs-react": "^0.0.4",
     "leapjs": "^0.6.4",
     "react": "^16.4.2",
+    "react-audio-player": "^0.10.0",
     "react-dom": "^16.4.2",
+    "react-howler": "^3.7.3",
     "react-leap": "^1.0.0-beta.1",
     "react-scripts": "1.1.5",
+    "react-typewriter": "^0.4.1",
+    "watson-developer-cloud": "^3.9.0",
     "yarn-install": "^1.0.0"
   },
   "scripts": {

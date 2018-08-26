@@ -1,0 +1,280 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f2592558-a47b-4278-b24e-d4670b6318a1\" name=\"Default\" comment=\"\" />\n    <ignored path=\"$PROJECT_DIR$/.tmp/\" />\n    <ignored path=\"$PROJECT_DIR$/temp/\" />\n    <ignored path=\"$PROJECT_DIR$/tmp/\" />\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\n    <option name=\"TRACKING_ENABLED\" value=\"true\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileEditorManager\">\n    <leaf>\n      <file leaf-file-name=\"index.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/index.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"136\">\n              <caret line=\"8\" selection-start-line=\"8\" selection-end-line=\"8\" />\n              <folding>\n                <element signature=\"e#0#26#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"App.js\" pinned=\"false\" current-in-tab=\"true\">\n        <entry file=\"file://$PROJECT_DIR$/src/App.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"68\">\n              <caret line=\"4\" selection-start-line=\"4\" selection-end-line=\"4\" />\n              <folding>\n                <element signature=\"e#0#41#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n      <file leaf-file-name=\"MyApp.js\" pinned=\"false\" current-in-tab=\"false\">\n        <entry file=\"file://$PROJECT_DIR$/src/MyApp.js\">\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\n            <state relative-caret-position=\"221\">\n              <caret line=\"16\" column=\"23\" selection-start-line=\"16\" selection-start-column=\"23\" selection-end-line=\"16\" selection-end-column=\"23\" />\n              <folding>\n                <element signature=\"e#0#25#0\" expanded=\"true\" />\n              </folding>\n            </state>\n          </provider>\n        </entry>\n      </file>\n    </leaf>\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"package_json\" />\n        <option value=\"JavaScript File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"FindInProjectRecents\">\n    <findStrings>\n      <find>thumb</find>\n    </findStrings>\n    <replaceStrings>\n      <replace>pinky</replace>\n    </replaceStrings>\n  </component>\n  <component name=\"IdeDocumentHistory\">\n    <option name=\"CHANGED_PATHS\">\n      <list>\n        <option value=\"$PROJECT_DIR$/src/package.json\" />\n        <option value=\"$PROJECT_DIR$/src/file.js\" />\n        <option value=\"$PROJECT_DIR$/archivl\" />\n        <option value=\"$PROJECT_DIR$/src/App.js\" />\n        <option value=\"$PROJECT_DIR$/src/MyApp.js\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"JsBuildToolGruntFileManager\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\" />\n  <component name=\"JsBuildToolPackageJson\" detection-done=\"true\" sorting=\"DEFINITION_ORDER\">\n    <package-json value=\"$PROJECT_DIR$/package.json\" />\n  </component>\n  <component name=\"JsGulpfileManager\">\n    <detection-done>true</detection-done>\n    <sorting>DEFINITION_ORDER</sorting>\n  </component>\n  <component name=\"NodePackageJsonFileManager\">\n    <packageJsonPaths>\n      <path value=\"$PROJECT_DIR$/package.json\" />\n    </packageJsonPaths>\n  </component>\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\n    <option name=\"x\" value=\"-15\" />\n    <option name=\"width\" value=\"1950\" />\n    <option name=\"height\" value=\"2055\" />\n  </component>\n  <component name=\"ProjectView\">\n    <navigator proportions=\"\" version=\"1\">\n      <foldersAlwaysOnTop value=\"true\" />\n    </navigator>\n    <panes>\n      <pane id=\"Scope\" />\n      <pane id=\"ProjectPane\">\n        <subPane>\n          <expand>\n            <path>\n              <item name=\"leap_data\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"leap_data\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n            <path>\n              <item name=\"leap_data\" type=\"b2602c69:ProjectViewProjectNode\" />\n              <item name=\"leap_data\" type=\"462c0819:PsiDirectoryNode\" />\n              <item name=\"src\" type=\"462c0819:PsiDirectoryNode\" />\n            </path>\n          </expand>\n          <select />\n        </subPane>\n      </pane>\n    </panes>\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"javascript.nodejs.core.library.configured.version\" value=\"8.11.3\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../celulas_contentas/Front/src/containers/Appointment/index.js\" />\n    <property name=\"nodejs_interpreter_path\" value=\"node\" />\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\n  </component>\n  <component name=\"RunDashboard\">\n    <option name=\"ruleStates\">\n      <list>\n        <RuleState>\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\n        </RuleState>\n        <RuleState>\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\n        </RuleState>\n      </list>\n    </option>\n  </component>\n  <component name=\"SvnConfiguration\">\n    <configuration />\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"f2592558-a47b-4278-b24e-d4670b6318a1\" name=\"Default\" comment=\"\" />\n      <created>1535233951822</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1535233951822</updated>\n      <workItem from=\"1535233955346\" duration=\"23482000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TimeTrackingManager\">\n    <option name=\"totallyTimeSpent\" value=\"23482000\" />\n  </component>\n  <component name=\"TodoView\">\n    <todo-panel id=\"selected-file\">\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n    <todo-panel id=\"all\">\n      <are-packages-shown value=\"true\" />\n      <is-autoscroll-to-source value=\"true\" />\n    </todo-panel>\n  </component>\n  <component name=\"ToolWindowManager\">\n    <frame x=\"-6\" y=\"-6\" width=\"1292\" height=\"692\" extended-state=\"6\" />\n    <layout>\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.24085851\" />\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"10\" weight=\"0.3290441\" />\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"0\" />\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"1\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"5\" weight=\"0.32960895\" />\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"2\" show_stripe_button=\"false\" />\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"6\" weight=\"0.3290441\" />\n      <window_info id=\"npm\" side_tool=\"true\" />\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Terminal\" order=\"3\" visible=\"true\" weight=\"0.3272059\" />\n      <window_info id=\"Favorites\" side_tool=\"true\" />\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"7\" weight=\"0.4\" />\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"9\" weight=\"0.4\" />\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"4\" />\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"8\" weight=\"0.25\" />\n    </layout>\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"1\" />\n  </component>\n  <component name=\"VcsContentAnnotationSettings\">\n    <option name=\"myLimit\" value=\"2678400000\" />\n  </component>\n  <component name=\"editorHistoryManager\">\n    <entry file=\"file://$PROJECT_DIR$/src/package.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"17\">\n          <caret line=\"1\" column=\"14\" selection-start-line=\"1\" selection-start-column=\"11\" selection-end-line=\"1\" selection-end-column=\"14\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/../celulas_contentas/Front/src/containers/Appointment/index.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"136\">\n          <caret line=\"34\" column=\"4\" selection-start-line=\"34\" selection-start-column=\"4\" selection-end-line=\"35\" selection-end-column=\"21\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/package.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/node_modules/leapjs/lib/controller.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"99\">\n          <caret line=\"296\" column=\"15\" selection-start-line=\"296\" selection-start-column=\"15\" selection-end-line=\"296\" selection-end-column=\"15\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/634.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/1583.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/57.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/0.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/1.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/2.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/3.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/4.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/5.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/6.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/7.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/8.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/hola/9.json\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/archivl\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state>\n          <caret column=\"68\" selection-end-column=\"134\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/file.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"28\">\n          <caret line=\"6\" column=\"13\" selection-start-line=\"6\" selection-start-column=\"13\" selection-end-line=\"6\" selection-end-column=\"13\" />\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/index.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"136\">\n          <caret line=\"8\" selection-start-line=\"8\" selection-end-line=\"8\" />\n          <folding>\n            <element signature=\"e#0#26#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/MyApp.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"221\">\n          <caret line=\"16\" column=\"23\" selection-start-line=\"16\" selection-start-column=\"23\" selection-end-line=\"16\" selection-end-column=\"23\" />\n          <folding>\n            <element signature=\"e#0#25#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n    <entry file=\"file://$PROJECT_DIR$/src/App.js\">\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\n        <state relative-caret-position=\"68\">\n          <caret line=\"4\" selection-start-line=\"4\" selection-end-line=\"4\" />\n          <folding>\n            <element signature=\"e#0#41#0\" expanded=\"true\" />\n          </folding>\n        </state>\n      </provider>\n    </entry>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1535276326000)
++++ .idea/workspace.xml	(date 1535276379134)
+@@ -1,7 +1,9 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="f2592558-a47b-4278-b24e-d4670b6318a1" name="Default" comment="" />
++    <list default="true" id="f2592558-a47b-4278-b24e-d4670b6318a1" name="Default" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <ignored path="$PROJECT_DIR$/.tmp/" />
+     <ignored path="$PROJECT_DIR$/temp/" />
+     <ignored path="$PROJECT_DIR$/tmp/" />
+@@ -13,44 +15,7 @@
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
+   <component name="FileEditorManager">
+-    <leaf>
+-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/index.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="136">
+-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+-              <folding>
+-                <element signature="e#0#26#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="App.js" pinned="false" current-in-tab="true">
+-        <entry file="file://$PROJECT_DIR$/src/App.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="68">
+-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+-              <folding>
+-                <element signature="e#0#41#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-      <file leaf-file-name="MyApp.js" pinned="false" current-in-tab="false">
+-        <entry file="file://$PROJECT_DIR$/src/MyApp.js">
+-          <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="221">
+-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+-              <folding>
+-                <element signature="e#0#25#0" expanded="true" />
+-              </folding>
+-            </state>
+-          </provider>
+-        </entry>
+-      </file>
+-    </leaf>
++    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+   </component>
+   <component name="FileTemplateManagerImpl">
+     <option name="RECENT_TEMPLATES">
+@@ -67,6 +32,9 @@
+     <replaceStrings>
+       <replace>pinky</replace>
+     </replaceStrings>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+     <option name="CHANGED_PATHS">
+@@ -76,6 +44,7 @@
+         <option value="$PROJECT_DIR$/archivl" />
+         <option value="$PROJECT_DIR$/src/App.js" />
+         <option value="$PROJECT_DIR$/src/MyApp.js" />
++        <option value="$PROJECT_DIR$/src/datos.js" />
+       </list>
+     </option>
+   </component>
+@@ -97,12 +66,12 @@
+     <option name="width" value="1950" />
+     <option name="height" value="2055" />
+   </component>
++  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+     <navigator proportions="" version="1">
+       <foldersAlwaysOnTop value="true" />
+     </navigator>
+     <panes>
+-      <pane id="Scope" />
+       <pane id="ProjectPane">
+         <subPane>
+           <expand>
+@@ -119,6 +88,7 @@
+           <select />
+         </subPane>
+       </pane>
++      <pane id="Scope" />
+     </panes>
+   </component>
+   <component name="PropertiesComponent">
+@@ -128,6 +98,7 @@
+     <property name="nodejs_interpreter_path" value="node" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
++    <property name="nodejs_package_manager_path" value="yarn" />
+   </component>
+   <component name="RunDashboard">
+     <option name="ruleStates">
+@@ -151,12 +122,13 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1535233951822</updated>
+-      <workItem from="1535233955346" duration="23482000" />
++      <workItem from="1535233955346" duration="23793000" />
++      <workItem from="1535270734638" duration="4573000" />
+     </task>
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="23482000" />
++    <option name="totallyTimeSpent" value="28366000" />
+   </component>
+   <component name="TodoView">
+     <todo-panel id="selected-file">
+@@ -174,20 +146,20 @@
+       <window_info anchor="bottom" id="TODO" order="10" weight="0.3290441" />
+       <window_info anchor="bottom" id="Docker" order="0" />
+       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+-      <window_info anchor="bottom" id="Find" order="5" weight="0.32960895" />
+-      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
++      <window_info active="true" anchor="bottom" id="Version Control" order="2" visible="true" weight="0.3290441" />
+       <window_info anchor="bottom" id="Run" order="6" weight="0.3290441" />
+-      <window_info id="npm" side_tool="true" />
++      <window_info id="npm" order="2" side_tool="true" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3272059" />
+-      <window_info id="Favorites" side_tool="true" />
++      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3272059" />
++      <window_info id="Favorites" order="2" side_tool="true" />
+       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
++      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
++      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+       <window_info anchor="bottom" id="Message" order="4" />
+       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
++      <window_info anchor="bottom" id="Find" order="5" weight="0.32960895" />
+     </layout>
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -197,13 +169,37 @@
+     <option name="myLimit" value="2678400000" />
+   </component>
+   <component name="editorHistoryManager">
+-    <entry file="file://$PROJECT_DIR$/src/package.json">
++    <entry file="file://$PROJECT_DIR$/src/index.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="68">
++          <caret line="8" selection-start-line="8" selection-end-line="8" />
++          <folding>
++            <element signature="e#0#26#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/MyApp.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="255">
++          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
++          <folding>
++            <element signature="e#0#25#0" expanded="true" />
++          </folding>
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/App.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="17">
+-          <caret line="1" column="14" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="14" />
++          <caret line="4" selection-start-line="4" selection-end-line="4" />
++          <folding>
++            <element signature="e#0#41#0" expanded="true" />
++          </folding>
+         </state>
+       </provider>
+     </entry>
++    <entry file="file://$PROJECT_DIR$/src/package.json" />
+     <entry file="file://$PROJECT_DIR$/../celulas_contentas/Front/src/containers/Appointment/index.js">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="136">
+@@ -214,19 +210,9 @@
+     <entry file="file://$PROJECT_DIR$/package.json">
+       <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/node_modules/leapjs/lib/controller.js">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="99">
+-          <caret line="296" column="15" selection-start-line="296" selection-start-column="15" selection-end-line="296" selection-end-column="15" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/hola/634.json">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/hola/1583.json">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
++    <entry file="file://$PROJECT_DIR$/node_modules/leapjs/lib/controller.js" />
++    <entry file="file://$PROJECT_DIR$/src/hola/634.json" />
++    <entry file="file://$PROJECT_DIR$/src/hola/1583.json" />
+     <entry file="file://$PROJECT_DIR$/src/hola/57.json">
+       <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+@@ -264,13 +250,6 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state>
+           <caret column="68" selection-end-column="134" />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/src/file.js">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="28">
+-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+         </state>
+       </provider>
+     </entry>
+@@ -284,9 +263,34 @@
+         </state>
+       </provider>
+     </entry>
++    <entry file="file://$PROJECT_DIR$/src/nos_vemos/132.json">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/real/adios/24.json">
++      <provider selected="true" editor-type-id="text-editor" />
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/real/adios/26.json">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="-2550" />
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/datos.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="204">
++          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/src/file.js">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="232">
++          <caret line="50" column="9" selection-start-line="41" selection-start-column="12" selection-end-line="50" selection-end-column="9" />
++        </state>
++      </provider>
++    </entry>
+     <entry file="file://$PROJECT_DIR$/src/MyApp.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="221">
++        <state relative-caret-position="272">
+           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+           <folding>
+             <element signature="e#0#25#0" expanded="true" />
+@@ -296,7 +300,7 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/src/App.js">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="68">
++        <state relative-caret-position="62">
+           <caret line="4" selection-start-line="4" selection-end-line="4" />
+           <folding>
+             <element signature="e#0#41#0" expanded="true" />
