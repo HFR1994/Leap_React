@@ -45,18 +45,34 @@ class MyApp extends Component {
                 ring: [(ring[0] - palm[0]), (ring[1] - palm[1]), (ring[2] - palm[2])],
                 pinky: [(pinky[0] - palm[0]), (pinky[1] - palm[1]), (pinky[2] - palm[2])]
             };
-
+            console.log("thumb: "+hands[0].pointables[0].direction);
+            console.log("index: "+hands[0].pointables[1].direction);
+            console.log("middle: "+hands[0].pointables[2].direction);
+            console.log("ring: "+hands[0].pointables[3].direction);
+            console.log("pinky: "+hands[0].pointables[4].direction);
             if (hands.length === 1) {
-                if (hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[1] >= 0 && hands[0].pointables[0].direction[2] < 0) {
+                if (hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[1] >= 0 && hands[0].pointables[0].direction[2] < 0 &&
+                    hands[0].pointables[1].direction[0] >= 0 && hands[0].pointables[1].direction[1] >= 0 && hands[0].pointables[1].direction[2] < 0 &&
+                    hands[0].pointables[2].direction[0] >= 0 && hands[0].pointables[2].direction[1] >= 0 && hands[0].pointables[2].direction[2] < 0 &&
+                    hands[0].pointables[3].direction[0] >= 0 && hands[0].pointables[3].direction[1] >= 0 && hands[0].pointables[3].direction[2] < 0 &&
+                    hands[0].pointables[4].direction[0] >= 0 && hands[0].pointables[4].direction[1] >= 0 && hands[0].pointables[4].direction[2] < 0) {
                     console.log("ADIOS");
                     this.sound(1);
                 } else {
-                    if (hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[1] <= 0 && hands[0].pointables[0].direction[2] < 0 && hands[0].pointables[4].direction[0] > 0) {
+                    if (hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[1] <= 0 && hands[0].pointables[0].direction[2] < 0 &&
+                        hands[0].pointables[1].direction[0] >= 0 && hands[0].pointables[1].direction[1] <= 0 && hands[0].pointables[1].direction[2] < 0 &&
+                        hands[0].pointables[3].direction[0] >= 0 && hands[0].pointables[3].direction[1] <= 0 && hands[0].pointables[3].direction[2] < 0 &&
+                        hands[0].pointables[4].direction[0] >= 0 && hands[0].pointables[4].direction[1] <= 0 && hands[0].pointables[4].direction[2] < 0) {
                         console.log("BIEN");
                         this.sound(2);
                     } else {
-                        console.log("HOLA");
-                        this.sound(3);
+                        if(hands[0].pointables[0].direction[0] >= 0 && hands[0].pointables[0].direction[2] < 0 &&
+                            hands[0].pointables[1].direction[0] >= 0 && hands[0].pointables[1].direction[2] < 0 &&
+                            hands[0].pointables[3].direction[0] <= 0 && hands[0].pointables[3].direction[2] > 0 &&
+                            hands[0].pointables[4].direction[0] <= 0 && hands[0].pointables[4].direction[2] > 0){
+                            console.log("HOLA");
+                            this.sound(3);
+                        }
                     }
                 }
             } else {
