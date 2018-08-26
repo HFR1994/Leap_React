@@ -1,0 +1,1 @@
+curl -X POST -u "05fd2d1c-f482-469b-979c-f5ee6dfc73be":"6eCnUf0VVnMt" "https://stream.watsonplatform.net/speech-to-text/api/v1/models"
