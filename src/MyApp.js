@@ -1,11 +1,17 @@
 import React, {Component} from 'react';
 import { withLeapContainer } from 'react-leap';
 import ReactHowler from 'react-howler';
+import axios from 'axios';
 
 let audioParts = [];
 let finalAudio = undefined;
 let websocket = undefined;
 let json = [];
+const datos = ["adios","bien","hola","aplauso","ver"];
+const instance = axios.create({baseURL: 'https://some-domain.com/api/',
+    timeout: 1000,
+    headers: {'X-Custom-Header': 'foobar'}
+});
 
 class MyApp extends Component {
 
@@ -18,7 +24,18 @@ class MyApp extends Component {
         this.onError = this.onError.bind(this);
         this.onMessage = this.onMessage.bind(this);
         this.sound = this.sound.bind(this);
+        this.search = this.search.bind(this);
     }
+
+    async search(number){
+        try {
+            const response = await axios.get(`https://od-api.oxforddictionaries.com/api/v1/entries/es/${datos[number]}/translations=en`);
+            return JSON.parse(response);
+        } catch (error) {
+            return error
+        }
+    }
+
 
 
     render() {
